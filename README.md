@@ -18,7 +18,7 @@ Unofficial Python 3 client for Notion.so API v3.
 
 Note: the latest version of **notion-py** requires Python 3.5 or greater.
 
-`pip install notion`
+`pip install  notion`
 
 ```Python
 from notion.client import NotionClient
