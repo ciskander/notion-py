@@ -1,1 +1,1 @@
-web: python run_smoke_test.py
+web: python client.py
