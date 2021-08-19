@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: python run_smoke_test.py
