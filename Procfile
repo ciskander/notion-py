@@ -1,1 +1,1 @@
-web: python notion-py
+web: gunicorn app:app
