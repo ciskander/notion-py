@@ -1,1 +1,1 @@
-web: python --chdir ./server client.py
+web: python --chdir ./notion client.py
