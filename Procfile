@@ -1,1 +1,1 @@
-web: python client.py
+web: python --chdir ./server client.py
