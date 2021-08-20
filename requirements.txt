@@ -6,3 +6,5 @@ python-slugify
 dictdiffer
 cached-property
 gunicorn
+Flask
+Flask-RESTful
